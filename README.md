@@ -5,4 +5,4 @@ The most advanced Raid Bot for real community engagement. Gamify your raids with
 This bot simillar with raidsharsbot
 https://docs.raidsharksbot.com/
 
-Contact with me <a href="https://t.me/vladmeer67" target="_blank">@vladmeer67</a>
+Contact with me <a href="https://t.me/vladmeer67" target='_blank'>@vladmeer67</a>
