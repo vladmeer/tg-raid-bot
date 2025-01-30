@@ -6,3 +6,6 @@ This bot simillar with raidsharsbot
 https://docs.raidsharksbot.com/
 
 Contact with me <a href="https://t.me/vladmeer67" target='_blank'>@vladmeer67</a>
+
+### Twitter: [Vladmeer](https://x.com/vladmeer67)   
+https://x.com/vladmeer67
